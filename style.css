@@ -15,18 +15,6 @@ nav {
     justify-content: space-between;
 }
 
-nav p {
-    font-size: 50px;
-    font-weight: bold;
-    color: white;
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: bold;
-}
-
-nav p img {
-    width: 25px;
-}
-
 nav ul {
     display: flex;
     gap: 64px;
